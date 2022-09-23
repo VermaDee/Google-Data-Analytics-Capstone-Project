@@ -7,7 +7,7 @@ The Blue Chip Foundation, The William, Jeff, and Jennifer Gross Family Foundatio
 The World Happiness Report was written by a group of independent experts acting in their personal capacities. 
 Any views expressed in this report do not necessarily reflect the views of any organization, agency or program of the United Nations.
 
-The dataset can be found here : https://www.kaggle.com/code/pongpisutkongdan/wb-google-data-analytic-cs3-world-happiness/data
+The analysis follows the 6 steps of Data Analysis taught in the Google course: Ask, Prepare, Process, Analyse, Share and Act.
 
 There are columns containing information in the data sets:
 Rank, 
@@ -20,10 +20,12 @@ Freedom to make life choices,
 Generosity, 
 Trust government corruption.
 
-The analysis follows the 6 steps of Data Analysis taught in the Google course: Ask, Prepare, Process, Analyse, Share and Act.
+The dataset can be found here : 
 
+https://www.kaggle.com/code/pongpisutkongdan/wb-google-data-analytic-cs3-world-happiness/data
 
 References:
+
 https://medium.com/analytics-vidhya/this-case-study-is-for-google-data-analytics-gda-capstone-project-course-54047cccf7cb
 https://www.kaggle.com/code/pongpisutkongdan/wb-google-data-analytic-cs3-world-happiness/notebook
 
